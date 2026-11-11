@@ -1,0 +1,1 @@
+export const SectionTitle = ({ children }) => <h2>{children}</h2>;
